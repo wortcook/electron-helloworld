@@ -1,0 +1,23 @@
+{
+  "name": "electron-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World Electron to explore build",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wortcook/electron-helloworld.git"
+  },
+  "author": "Thomas Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wortcook/electron-helloworld/issues"
+  },
+  "homepage": "https://github.com/wortcook/electron-helloworld#readme",
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
